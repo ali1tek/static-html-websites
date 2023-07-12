@@ -1,2 +1,2 @@
-# Statis Html Web Sites
+# Static Html Web Sites
 
