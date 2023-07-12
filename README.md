@@ -1,2 +1,2 @@
-# tokgoz-elektrik
-Tokgoz Elektrik Ltd. Web Site
+# Statis Html Web Sites
+
